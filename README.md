@@ -1,3 +1,3 @@
 # Sujal-demo
-First git repository \n
+First git repository <br>
 By Sujal Dhonsale
